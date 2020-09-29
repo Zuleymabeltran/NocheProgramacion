@@ -27,7 +27,7 @@ Para poder agregar tu código es necesario:
 
 ## 1. Localizar
 
-Dentro de la página de NocheProgramacion busca cual quieres agregar tu contribución. Dentro de la sección de "Contribucion Comunitaria" encontraras un link ***tu propia versión*** el link te abrirá la página de Github para poder agregar tu contribución.
+Dentro de la página de NocheProgramacion busca a cual quieres agregar tu contribución. Dentro de la sección de "Contribucion Comunitaria" encontraras un link ***tu propia versión*** el link te abrirá la página de Github para poder agregar tu contribución.
 
 > **Tip: También puedes buscar Github**  
 > Puedes encontrar también dentro de repositorio en github buscando dentro del folder que empieza con `_` como `_Tutorial` o `_Cusos` buscar el archivo .md y le das editar icono del lápiz.
@@ -69,7 +69,7 @@ En este ya hay una contribucción debajo de `contributions`, para agregar la tuy
     source: "Link de tu código como un repositorio o paginaweb donde se puede ver tu versión del código fuente"
 ```
 
-si no esta lo puede agregar la sección poniendo al principio `contributions:` al final antes de `---`
+si no esta lo puedes agregar a la sección poniendo al principio `contributions:` al final antes de `---`
 
 ``` yaml
 contributions:
