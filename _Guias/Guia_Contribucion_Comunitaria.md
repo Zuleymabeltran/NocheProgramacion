@@ -66,7 +66,7 @@ En este ya hay una contribucción debajo de `contributions`, para agregar la tuy
       name: "Tu nombre (Se mostrara en la página)"
       url: "(Opcional) Link a tu página o cuenta social (Para que cuentren mas trabajo tuyo)"
     url: "Link de tu proyecto corriendo preferencia dentro del navegador o video o gif"
-    source: "Link de tu código como un repositorio o paginaweb donde se puede ver tu versión del código fuente"
+    source: "Link de tu código como un repositorio o pagina web donde se puede ver tu versión del código fuente"
 ```
 
 si no esta lo puede agregar la sección poniendo al principio `contributions:` al final antes de `---`
@@ -78,7 +78,7 @@ contributions:
       name: "Tu nombre (Se mostrara en la página)"
       url: "(Opcional) Link a tu página o cuenta social (Para que cuentren mas trabajo tuyo)"
     url: "Link de tu proyecto corriendo preferencia dentro del navegador o video o gif"
-    source: "Link de tu código como un repositorio o paginaweb donde se puede ver tu versión del código fuente"
+    source: "Link de tu código como un repositorio o pagina web donde se puede ver tu versión del código fuente"
 ```
 
 Cuando estes felíz con lo que agregaste pasa al siquiente paso, intenta respetar los espacios y si hay otras contribuciones agrega la tuya al final de la lista.  
